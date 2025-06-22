@@ -1,0 +1,9 @@
+directories:
+  output: dist
+  buildResources: setup
+appId: com.yourdomain.glowbrowser
+productName: Glow Browser
+win:
+  icon: setup/icon.ico
+files: []
+electronVersion: 26.6.10
